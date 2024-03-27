@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafael-Caio
 - Estou interessado em Programação em ambito geral.
--  Estou cursando o II semestre de TI.
+-  Estou cursando o III semestre de TI.
 -  Especificamente Desenvolvimento web e Analise e Desenvolvimento de Sistemas.
 - Procuro aprender  mais a cada dia.
 <!---
